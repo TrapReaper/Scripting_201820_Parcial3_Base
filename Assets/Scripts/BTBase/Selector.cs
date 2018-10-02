@@ -14,7 +14,16 @@
 
         if (result)
         {
-            result = base.Execute();
+            foreach (Node node in children)
+            {
+                result = result || node.Execute();
+
+                if (ShouldBreak(result))
+                {
+                    break;
+                }
+            }
+            
         }
 
         return result;
