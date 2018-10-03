@@ -58,7 +58,7 @@ public abstract class ActorController : MonoBehaviour
         onActorTagged -= SetTagged;
     }
 
-    private void SetTagged(bool val)
+    public void SetTagged(bool val)
     {
         IsTagged = val;
 
