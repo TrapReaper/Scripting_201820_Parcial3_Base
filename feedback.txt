@@ -1,0 +1,16 @@
+Feedback
+
+Examen (0.5/5.0)
+ * El material entregado no corresponde en nada a lo que solicita el enunciado.
+ * De todos los AI que corren en la escena, solo uno persigue al jugador. Una vez lo alcanza, el comportamiento no cambia.
+ * No hay uso de BT
+ * El tiempo de juego se puede configurar por el GameController (0.5)
+ * La cantidad de jugadores no se puede configurar por el GameController.
+
+Bonificación (0.0/0.5)
+Compensación: 1.0
+Reducción por no subir correctamente a GitHub: -0.5
+
+Al final nunca supe por qué "no pudiste" entregar en el proyecto base. Entre otras cosas, no usaste absolutamente nada del código provisto.
+
+Total: 1.0 / 5.0
